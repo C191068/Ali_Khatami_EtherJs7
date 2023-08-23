@@ -72,6 +72,12 @@ We shall see in our package.json <br>
 
 Now we pulled it in we can get access to our private key variable <br>
 
+![d59](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/a49d59ce-051f-4e65-a38c-f019e2207ece)
+
+We use the above line of code <br>
+
+
+
 
 
 
