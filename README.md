@@ -81,6 +81,10 @@ We use the above line of code for accessing environment variables <br>
 thus we have deployed our code successfuly <br>
 
 
+![d61](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/420ae2a4-bb5b-4451-bb11-7b3eb6028711)
+
+We can chcek whrther it is running our private key by the above way <br>
+
 
 
 
