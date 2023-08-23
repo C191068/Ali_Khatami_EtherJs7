@@ -23,8 +23,18 @@ This sis gonna bethe file that we never gonna share with anybody <br>
 
 This file gonna stick variables of our choosing to our environment varibales <br>
 
+![d54](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/c9e1765b-1209-4d4d-895d-c993e0ba82e8)
 
+here the below code :
 
+```
+$env:HUMAN = "Khatami"
+
+```
+
+```
+echo $env:HUMAN
+```
 
 
 
