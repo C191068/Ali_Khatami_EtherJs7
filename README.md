@@ -46,6 +46,13 @@ and stick it to the script at akrkdeploy.js <br>
 
 So that our script can stick it to our environment <br>
 
+![d55](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/71147c7b-234f-4257-be0d-6f2f398abee3)
+
+We gonn paste the code below :
+
+```
+yarn add dotenv
+```
 
 
 
