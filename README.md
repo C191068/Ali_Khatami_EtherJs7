@@ -2,4 +2,9 @@
 
 ### Environment variables 
 
+Remember if we give out our private key whoever has our private key <br>
+
+owns our fund <br>
+
+
 
