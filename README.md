@@ -76,6 +76,10 @@ Now we pulled it in we can get access to our private key variable <br>
 
 We use the above line of code for accessing environment variables <br>
 
+![d60](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/710f4564-06de-4b31-bbd1-3fea62844e7e)
+
+thus we have deployed our code successfuly <br>
+
 
 
 
