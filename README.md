@@ -36,7 +36,12 @@ echo $env:HUMAN
 ```
 
 
-This is waht an environent variable is <br>
+This is what an environent variable is <br>
+
+It sis a variable in our terminal or scripting environment <br>
+
+
+
 
 
 
