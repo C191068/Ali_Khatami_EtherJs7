@@ -40,6 +40,12 @@ This is what an environent variable is <br>
 
 It sis a variable in our terminal or scripting environment <br>
 
+In our akrkdeploy.js we want ot grab the above enironment variable <br>
+
+and stick it to the script at akrkdeploy.js <br>
+
+
+
 
 
 
