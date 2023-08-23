@@ -19,6 +19,11 @@ or environment variable <br>
 
 we create a .env file that gonna contain sensitive information <br>
 
+This sis gonna bethe file that we never gonna share with anybody <br>
+
+
+
+
 
 
 
