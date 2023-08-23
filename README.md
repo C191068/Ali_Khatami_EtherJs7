@@ -8,6 +8,10 @@ owns our fund <br>
 
 We don't want to hard code our private keys into our code <br>
 
+just in case we accidentally we share code with someody <br>
+
+
+
 
 
 
