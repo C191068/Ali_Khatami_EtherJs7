@@ -66,6 +66,9 @@ to learn more about dotenv <br>
 
 This pull all our environment variables <br>
 
+![d58](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/314af8a8-f668-428d-a3cf-d5cf78b78dee)
+
+We shall see in our package.json <br>
 
 
 
