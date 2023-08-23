@@ -36,6 +36,9 @@ echo $env:HUMAN
 ```
 
 
+This is waht an environent variable is <br>
+
+
 
 
 
