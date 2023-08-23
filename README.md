@@ -29,7 +29,6 @@ here the below code :
 
 ```
 $env:HUMAN = "Khatami"
-
 ```
 
 ```
