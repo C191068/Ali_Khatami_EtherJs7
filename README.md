@@ -44,6 +44,9 @@ In our akrkdeploy.js we want ot grab the above enironment variable <br>
 
 and stick it to the script at akrkdeploy.js <br>
 
+So that our script can stick it to our environment <br>
+
+
 
 
 
