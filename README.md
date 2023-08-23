@@ -6,5 +6,8 @@ Remember if we give out our private key whoever has our private key <br>
 
 owns our fund <br>
 
+We don't want to hard code our private keys into our code <br>
+
+
 
 
