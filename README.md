@@ -70,6 +70,9 @@ This pull all our environment variables <br>
 
 We shall see in our package.json <br>
 
+Now we pulled it in we can get access to our private key variable <br>
+
+
 
 
 
