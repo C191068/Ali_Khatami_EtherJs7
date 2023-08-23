@@ -15,6 +15,11 @@ Then the solution of above is creating .env file <br>
 or environment variable <br>
 
 
+![d53](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/2d87449b-cfcb-485e-8046-5d10e0b8c6f4)
+
+we create a .env file that gonna contain sensitive information <br>
+
+
 
 
 
