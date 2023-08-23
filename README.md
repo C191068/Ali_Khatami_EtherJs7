@@ -1,4 +1,4 @@
-# Ali_Khatami_Etherjs7(Learning from the video of Patrick Collins)
+![image](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/bb83ff33-2dd3-41fd-a8a8-7e2172c1f710)# Ali_Khatami_Etherjs7(Learning from the video of Patrick Collins)
 
 ### Environment variables 
 
@@ -54,6 +54,11 @@ We gonn paste the code below :
 yarn add dotenv
 ```
 
+
+![d56](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/fe5205df-9d1d-443b-95cc-676c97e38c8f)
+
+We can go to this link  https://www.npmjs.com/package/dotenv <br>
+to learn more about dotenv <br>
 
 
 
