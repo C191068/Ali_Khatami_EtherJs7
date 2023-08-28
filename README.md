@@ -85,6 +85,11 @@ thus we have deployed our code successfuly <br>
 
 We can chcek whrther it is running our private key by the above way <br>
 
+![m1](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/a65aa485-3ae4-4d49-8a74-ad1d4601eaf3)
+
+Our RPC URL here is not really something we need to secure <br>
+
+
 
 
 
