@@ -118,6 +118,9 @@ private keys or RPC URL <br>
 here we create a new file .gitignore and write the above in it <br>
 
 
+This is because when we push to github we will not gonnna push <br>
+.env and node modules <br>
+
 
 
 
