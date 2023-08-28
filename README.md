@@ -93,6 +93,10 @@ However maybe we gonna use certain API key or certain end point that only we wan
 
 We don't anybody else to use RPC endpoint <br>
 
+So we gonna add this to .env file as well <br>
+
+
+
 
 
 
