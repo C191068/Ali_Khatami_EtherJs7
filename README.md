@@ -113,6 +113,11 @@ just in case when we push our code to github we don't expose our <br>
 private keys or RPC URL <br>
 
 
+![m5](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/c817121d-1520-4d60-a2ac-72f872544781)
+
+here we create a new file .gitignore and write the above in it <br>
+
+
 
 
 
