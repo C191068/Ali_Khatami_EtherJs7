@@ -107,6 +107,8 @@ then we write the above <br>
 our code is successfully deployed again <br>
 
 
+So we have learned how to add environment variables to our .env file <br>
+
 
 
 
