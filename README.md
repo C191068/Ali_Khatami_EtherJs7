@@ -109,6 +109,10 @@ our code is successfully deployed again <br>
 
 So we have learned how to add environment variables to our .env file <br>
 
+just in case when we push our code to github we don't expose our <br>
+private keys or RPC URL <br>
+
+
 
 
 
