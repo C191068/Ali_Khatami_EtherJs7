@@ -89,7 +89,7 @@ We can chcek whrther it is running our private key by the above way <br>
 
 Our RPC URL here is not really something we need to secure <br>
 
-However maybe we gonna use certain API key <br>
+However maybe we gonna use certain API key or certain end point that only we want to have access to  <br>
 
 
 
