@@ -91,6 +91,8 @@ Our RPC URL here is not really something we need to secure <br>
 
 However maybe we gonna use certain API key or certain end point that only we want to have access to  <br>
 
+We don't anybody else to use RPC endpoint <br>
+
 
 
 
