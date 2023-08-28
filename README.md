@@ -97,6 +97,10 @@ We don't anybody else to use RPC endpoint <br>
 
 So we gonna add this to .env file as well <br>
 
+![m3](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/a1df03dd-420e-4d36-b464-4ca5c12f0b9e)
+
+then we rite the above <br>
+
 
 
 
