@@ -99,8 +99,12 @@ So we gonna add this to .env file as well <br>
 
 ![m3](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/a1df03dd-420e-4d36-b464-4ca5c12f0b9e)
 
-then we rite the above <br>
+then we write the above <br>
 
+
+![m4](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/82e6d118-3ff1-4c3f-8891-20a4f8a5a9ff)
+
+our code is successfully deployed again <br>
 
 
 
