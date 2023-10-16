@@ -1,4 +1,4 @@
-![image](https://github.com/C191068/Ali_Khatami_EtherJs7/assets/89090776/bb83ff33-2dd3-41fd-a8a8-7e2172c1f710)# Ali_Khatami_Etherjs7(Learning from the video of Patrick Collins)
+# Ali_Khatami_Etherjs7(Learning from the video of Patrick Collins)
 
 ### Environment variables 
 
